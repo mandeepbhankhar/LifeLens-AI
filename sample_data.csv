@@ -1,0 +1,4 @@
+title,description,priority,due_date,category,status
+Complete database schema,Create initial SQLite schema,Urgent,2026-10-15,Work,Pending
+Practice Python OOP,Review classes and exceptions,High,2026-10-15,Learning,Completed
+Walk for 20 minutes,Short outdoor walk,Low,2026-10-15,Health,Pending
